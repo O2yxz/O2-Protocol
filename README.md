@@ -8,7 +8,7 @@ borrowing erc20 asset whit their NFT
 # Community
 You can join at the [Discord](https://discord.gg/xZHy7ekz3R) channel or at the [Telegram Channel](https://t.me/o2protocol/) for asking questions about the protocol or talk about O2 with other peers.
 
-#Liquidity protocol
+# Liquidity protocol
 Put any ERC-721 token up for collateralization. Other users can now offer you a loan.
 
 If you accept a loan, the ERC20 gets paid out from the lenders account to you, and your NFT gets locked in the O2 smart contract.
